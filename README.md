@@ -1,4 +1,4 @@
-A3XAI - Current Version: 0.2.2
+A3XAI - Current Version: 0.2.3
 =====
 Updated to include vehicle loot and paratrooper reinforcements by Porkeld
 ---
